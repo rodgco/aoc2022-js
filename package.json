@@ -1,0 +1,16 @@
+{
+	"name": "aoc2021",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "aoc start"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@aocjs/cli": "1.0.0-alpha.2",
+		"prettier": "^2.8.0",
+		"ts-node": "^10.9.1"
+	}
+}
