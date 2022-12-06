@@ -19,4 +19,4 @@ To help me I'm using the following tools:
 * Configure @aocjs/cli as described at their [site](https://aocjs.github.io)
 * `pnpm start dayN` - Where N is the day you're solving
 
-| Happy Coding!!!
+> Happy Coding!!!
