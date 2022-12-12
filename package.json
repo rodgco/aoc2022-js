@@ -10,6 +10,8 @@
 	"license": "ISC",
 	"devDependencies": {
 		"@aocjs/cli": "1.0.0-alpha.2",
+		"@types/compute-lcm": "^1.1.0",
+		"compute-lcm": "^1.1.2",
 		"prettier": "^2.8.0",
 		"tesseract.js": "^4.0.1",
 		"text-to-image": "^5.2.0",

@@ -59,6 +59,10 @@ Day 10 gave me the ooportunity to come up with a solution to try to read the ASC
 
 Used [text-to-image](https://www.npmjs.com/package/text-to-image) to convert it to an image, and then used [Tesseract](https://tesseract.projectnaptha.com/) to read the characters. After a few struggles with text-to-image collapsing adjacent spaces (solved with the use of non-breaking spaces "\xa0"), the best char for the fill ("\u2588") and tweaking on font size and weight and line height, got pretty close. Tesseract keeps reading the K as an R, unlucky me to got this! Lucky me that I could experience with differente technology.
 
+### Day 11
+
+Part 1 was easy, implemented the class Monkey with some static functionality. Part 2 was tricky, nedded some help from Reddit to figure out how to "find another way to keep your worry levels manageable". The LCM idea, so now I've also included [compute-lcm](https://www.npmjs.com/package/compute-lcm) to help with this case.
+
 ## Installation
 
 * Clone the repository
